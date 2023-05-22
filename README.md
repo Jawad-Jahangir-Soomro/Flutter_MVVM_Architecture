@@ -1,1 +1,1 @@
-# Flutter MVVM Architecture
+# Flutter MVVM Architecture (Model View, View Model)
